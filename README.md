@@ -24,19 +24,19 @@ The project is meticulously organized into several directories, each serving a d
 
 The project relies on the following dependencies: 
 
--Python 3.x
+- Python 3.x
 
--Jupyter Notebook
+- Jupyter Notebook
 
--pandas
+- pandas
 
--numpy
+- numpy
 
--matplotlib
+- matplotlib
 
--seaborn
+- seaborn
 
-## To use this Project:
+## To Use this Project:
 
 1. Clone this repository to your local machine.
 2. Navigate to the relevant folder (Extraction, Data Quality Check, Transformation, Modeling).
